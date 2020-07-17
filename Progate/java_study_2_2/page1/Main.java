@@ -17,6 +17,5 @@ class Main {
     
     // 変数boolの値を出力してください
     System.out.println(bool);
-    
   }
 }
