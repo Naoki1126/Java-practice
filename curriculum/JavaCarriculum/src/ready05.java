@@ -22,7 +22,7 @@ public class ready05 {
 		boolean boolean1 = true;
 		boolean boolean2 = false;
 
-		//文字型 (char) シングルクォーテーション及びセミコロンが必要
+		//文字型 (char) シングルクォーテーション及びセミコロンが必要 一文字だけ
 		char aisisi = 'あ';
 		char ais = 'A';
 		char char34 = "ab" //コンパイルエラー
