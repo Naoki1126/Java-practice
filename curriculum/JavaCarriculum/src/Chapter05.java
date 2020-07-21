@@ -11,19 +11,19 @@ public class Chapter05 {
 		boolean bool02 = false;
 		System.out.println(bool01);
 		System.out.println(bool02);
-		//ボクシング
+		//オートボクシング
 		Integer integer1 = 123;
 		//アンボクシング
 		int int1 = integer1;
 		System.out.println(int1);
 
-		//ボクシング
+		//オートボクシング
 		Float float01 = 0.2f;
 		//アンボクシング
 		float float1 = float01;
 		System.out.println(float1);
 
-		//ボクシング
+		//オートボクシング
 		Character character01 = 'あ';
 		//アンボクシング
 		char char01 = character01;
